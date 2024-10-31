@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.music.PlaylistService.PlaylistServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-11-22T17:02:21" hostname="LAPTOP-S57OD5Q8" time="1.172">
+  <properties/>
+  <testcase name="createPlaylist()" classname="com.music.PlaylistService.PlaylistServiceTest" time="1.172"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
